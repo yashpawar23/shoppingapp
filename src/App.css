@@ -1,0 +1,14 @@
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.shopping-cart{
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fbb861;
+  padding: 20px 30px;
+}
+.product-item{
+  padding: 20px;
+}
